@@ -11,6 +11,7 @@ FLAGS = flags.FLAGS
 
 def main(unused_argv):
   print('some text')
+  print('more text')
 
 
 if __name__ == '__main__':
